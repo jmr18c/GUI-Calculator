@@ -1,0 +1,9 @@
+C:\Users\jrait\OneDrive - acu.edu\FALL 2020\CS O-OP\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\jrait\OneDrive - acu.edu\FALL 2020\CS O-OP\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\jrait\OneDrive - acu.edu\FALL 2020\CS O-OP\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\jrait\OneDrive - acu.edu\FALL 2020\CS O-OP\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\jrait\OneDrive - acu.edu\FALL 2020\CS O-OP\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\jrait\OneDrive - acu.edu\FALL 2020\CS O-OP\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\jrait\OneDrive - acu.edu\FALL 2020\CS O-OP\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\jrait\OneDrive - acu.edu\FALL 2020\CS O-OP\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\jrait\OneDrive - acu.edu\FALL 2020\CS O-OP\Calculator\Calculator\obj\Debug\Calculator.pdb
